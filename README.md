@@ -34,9 +34,9 @@ The course main focus is on practicing three levels of problem solving: basic, i
 - Day 6
 	- [x] Simple Text Editor
 	- [x] Lego Blocks
-	- [] Jesse and Cookies
-	- [] Mock Test
+	- [ ] Jesse and Cookies
+	- [ ] Mock Test
 - Day 7
-	- [] Tree: Preorder Traversal
-	- [] Tree: Huffman Decoding
-	- [] No Prefix Set
+	- [ ] Tree: Preorder Traversal
+	- [ ] Tree: Huffman Decoding
+	- [ ] No Prefix Set
